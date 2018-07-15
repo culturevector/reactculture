@@ -1,12 +1,12 @@
 {
-  "name": "hackathon-starter",
+  "name": "Culture-Vector",
   "version": "5.1.1",
   "description": "A boilerplate for Node.js web applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/culturevector/reactculture.git"
   },
-  "author": "Sahat Yalkabov",
+  "author": "Rohit Kumar",
   "license": "MIT",
   "scripts": {
     "postinstall": "npm rebuild node-sass",
